@@ -1,0 +1,4 @@
+# 本作品只用 Python 标准库（tkinter / pathlib / shutil / re），不需要装任何第三方包。
+# 依赖清单留空，是为了让你在客户电脑上打包时体积更小、启动更快。
+#
+# 打包时需要额外装 PyInstaller，见 build.bat。

